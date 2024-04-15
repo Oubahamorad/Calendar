@@ -15,7 +15,7 @@
   
 <div class="container">
     <br />
-    <h1 class="text-center text-red"><u>lionsgeek Fullcalendar </u></h1>
+    <h1 class="text-center text-danger"><u>lionsgeek Fullcalendar </u></h1>
     <br />
 
     <div id="calendar"></div>
